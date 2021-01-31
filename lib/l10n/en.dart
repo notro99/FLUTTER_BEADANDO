@@ -1,0 +1,37 @@
+const ENGLISH_TEXTS = {
+  'seeAll': 'See all destinations',
+  'activities' : 'Activities',
+  'whatToSearch' : 'What would you like to search?',
+  'checkIt' : 'Visit the place!',
+  'hotels' : 'Top rated hotels',
+  'night' : 'night',
+  'map' : 'Map',
+  'destination' : 'Destination',
+  'goThere' : 'I want to go there!',
+  'noEmpty' : ' can\'t be empty!',
+  'name'  : 'Name',
+  'profession' : 'Profession',
+  'dob' : 'Date of birth',
+  'title': 'Job title',
+  'about' : 'About me..',
+  'writeSomething' : 'Write something!',
+  'save' : 'Save',
+  'newAddress' : 'New address',
+  'city' : 'City',
+  'street' : 'Street',
+  'houseNumber' : 'House number',
+  'cancel' : 'Cancel',
+  'person' : '/ Person',
+
+  'contactPicker' : 'Invite your friends!',
+  'enterNumber':' Please enter a number',
+  'friendsNumber' : 'Phone number',
+  'contactBook' : 'Contact book',
+  'enterName':' Please enter a name',
+  'contactName' : 'Contact\'s name',
+  'friends' : 'Friends',
+  'noContacts' : 'There are no contacts in your phonebook',
+
+
+
+};
